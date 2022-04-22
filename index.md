@@ -11,7 +11,7 @@ I am a third year PhD student in Natural Language Processing at the University o
 
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as a society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
-You can find my different programming projects in [my github website](https://github.com/LeonardoCastro).
+You can find my different programming projects in [my github website](https://github.com/giuliaok).
 
 ## Undergoing projects
 
@@ -55,5 +55,5 @@ Past events:
 
 ## Contact
 
-- email: lcastrogonzalez [at] turing [dot] ac [dot] uk
-- twitter: [@leonardo_c25](https://twitter.com/leonardo_c25)
+- email: gocchini [at] turing [dot] ac [dot] uk
+- twitter: [@GiuliaOcchini](https://twitter.com/giuliaocchini)
