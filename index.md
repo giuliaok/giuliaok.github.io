@@ -1,13 +1,13 @@
 
 
 
-## Giulia Occhini
+##<span style="color:IndianRed">Giulia Occhini</span>
 
 I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Institute. I am currently in a research intern at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
 
 **My research interests keywords:** Natural Language Processing, Complexity Economics, Urban Sciences, Data Science.
 
-**Main supervisor:** Prof. [Emmanouil Tranos](https://etranos.info/) ([UoB](https://www.bristol.ac.uk/people/person/Emmanouil-Tranos-b26cd054-b65e-438c-9a73-43d0ef833f8d/)/[ATI](https://www.turing.ac.uk/people/researchers/emmanouil-tranos))
+**Main supervisor:** Dr. [Emmanouil Tranos](https://etranos.info/) ([UoB](https://www.bristol.ac.uk/people/person/Emmanouil-Tranos-b26cd054-b65e-438c-9a73-43d0ef833f8d/)/[ATI](https://www.turing.ac.uk/people/researchers/emmanouil-tranos))
 
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as a society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
