@@ -1,7 +1,7 @@
 
-<title style="color: IndianRed">Giulia Occhini</title>
+## Giulia Occhini
 
-I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Institute. I am currently in a research intern at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
+Hey there! I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Institute. I am currently in a research intern at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
 
 **My research interests keywords:** Natural Language Processing, Complexity Economics, Urban Sciences, Data Science.
 
@@ -10,6 +10,10 @@ I am a third year PhD student in Natural Language Processing at the University o
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as a society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
 You can find my different programming projects in [my github website](https://github.com/giuliaok).
+
+## Work experience 
+
+
 
 ## Undergoing projects
 
