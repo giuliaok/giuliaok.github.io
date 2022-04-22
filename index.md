@@ -2,9 +2,9 @@
 
 I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Instiitute. I am currently in a research intern at MILA Québec(Jan 2022 - May 2022). Before starting my PhD, I did my MSc in Complex Systems Modelling at King's College London (Distinction) and my BSc in Physics at UNAM (Mexico - 9.32/10).
 
-**My research interests keywords:** Complexity Economics, Urban Sciences, Statistical Physics, Data Science.
+**My research interests keywords:** Natural Language Processing, Complexity Economics, Urban Sciences, Data Science.
 
-**Main supervisor:** Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna))
+**Main supervisor:** Prof. [Emmanouil Tranos](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna))
 
 My research interest lies in the transdisciplinary work to understand our economic and urban dynamics as society. The aim of my PhD is to discover the links between the economic activity with the urban network in England.
 
