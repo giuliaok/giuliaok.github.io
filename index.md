@@ -1,6 +1,6 @@
-# Leonardo Castro-Gonzalez
+## Giulia Occhini
 
-I am a second year PhD student in Economics at the University of Birmingham. I am currently in a Visiting Student position at the Alan Turing Institute in the Urban Analytics Programme (Oct 2019 - Sep 2020). Before starting my PhD, I did my MSc in Complex Systems Modelling at King's College London (Distinction) and my BSc in Physics at UNAM (Mexico - 9.32/10).
+I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Instiitute. I am currently in a research intern at MILA Québec(Jan 2022 - May 2022). Before starting my PhD, I did my MSc in Complex Systems Modelling at King's College London (Distinction) and my BSc in Physics at UNAM (Mexico - 9.32/10).
 
 **My research interests keywords:** Complexity Economics, Urban Sciences, Statistical Physics, Data Science.
 
