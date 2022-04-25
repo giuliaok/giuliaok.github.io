@@ -52,7 +52,7 @@ A virtual poster will be presented at the [University of Bristol Data Week 2022]
 
 ### Industrial classification "on the fly"
 
-Author. Using Natural Language Processing and Commoncrawl data for automation of the UK Business Survey Census. A presentation of the project at the [Heilbronn Institute
+Using Natural Language Processing and Commoncrawl data for automation of the UK Business Survey Census. A presentation of the project at the [Heilbronn Institute
 for Mathematical Research data science seminars](https://www.bristol.ac.uk/golding/get-involved/workshops-and-seminars/bristol-data-science-seminars-2021--2022-/) can be found here [here](https://www.youtube.com/watch?v=LckMlbr1QUI).
 
 ## Presentations and Invited Talks 
