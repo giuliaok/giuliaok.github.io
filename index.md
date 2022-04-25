@@ -13,13 +13,13 @@ You can find my different programming projects in [my github website](https://gi
 
 ## Work experience 
 
-- **Incoming Speech and Data Science Intern [Inflammatix](https://inflammatix.com/ml/) (USA):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
+- **Incoming Speech and Data Science Intern [Nuance Communications](https://www.nuance.com/index.html):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
 - **Research Intern at the [Québec Institute for Learning Algorthms (MILA)](https://mila.quebec/en/) (Canada):** Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
-- **Data Science Consultant [Jean Golding Institute for data-intensive Research](http://www.bristol.ac.uk/golding/)**:
+- **Data Science Consultant [Jean Golding Institute for data-intensive Research](http://www.bristol.ac.uk/golding/):**
 
-- **ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP with Deep Learning" from LSTMs to BERT. 
+- **Machiine Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP with Deep Learning" from LSTMs to BERT. 
 
 - **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands):** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
 
@@ -31,7 +31,7 @@ You can find my different programming projects in [my github website](https://gi
 
 Author. The illicit drug market in the UK has evolved in the past decade, giving birth to new models of drug supply like deep-web online sales and the county lines model. Combined with a declining workforce from the different polices in the UK, getting a clear snapshot of the supply routes is becoming increasingly difficult. Using open data from the government for England, the aim of this project is to understand how these new supply models evolve over time. By doing this, we aim to understand the geographic structure of the demand of illicit-drugs and project the future routes with high risk of being overtaken by illicit drug suppliers. 
 
-The database is held [here](https://github.com/LeonardoCastro/BritishDrugDynamics). 
+You can find the code for the project in [here](https://github.com/LeonardoCastro/BritishDrugDynamics)! 
 
 A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
@@ -49,18 +49,7 @@ Past events:
 - [Mathematical Modelling in Biology](https://lims.ac.uk/event/mathematical-modelling-in-biology/) (March 2020 - postponed)
 - [Modelling collective human behaviour](https://lims.ac.uk/event/collective-human-behaviour/) (Jan 2020)
 
-## Publications
-
-**Reports**
-- [Data Study Group team. (2020, June 5). Data Study Group Final Report: WWF. Zenodo. http://doi.org/10.5281/zenodo.3878457](https://www.turing.ac.uk/research/publications/data-study-group-final-report-wwf)
-
-**Education in Physics**
-- [Castro González, L., Lárraga, M.E., del Río, J.A., "Modeling an urban highway: a statistical physics point of view for a non physical system", Revista Mexicana de Física E, 2019 (65).](https://bit.ly/30AFElZ)
-
-**Popular science (in Spanish)**
-- [Castro González, L., del Río J.A., ¨Carreteritas con autómatas celulares¨, La unión de Morelos, May 23 2016](https://bit.ly/36bo7BN)
-- [Castro González, L., del Río J.A., ¨Física y matemáticas para entender los embotellamientos de una carretera¨, La unión de Morelos, May 30 2016](https://bit.ly/3ao4sCh)
-- [Castro González, L., del Río J.A., "Simulando una carretera con autómatas celulares: el caso del libramiento de Cuernavaca", La unión de Morelos, Aug 15 2016](https://bit.ly/2Gd63gm)
+## Presentations and Invited Talks 
 
 
 ## Contact
