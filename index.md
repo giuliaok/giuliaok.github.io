@@ -1,7 +1,7 @@
 
 ## Giulia Occhini
 
-Hey there! I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Institute. I am currently in a research intern in AI and citties at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
+Hey there! I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Institute. I am currently in a research intern in AI and cities at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
 
 **My research interests keywords:** Natural Language Processing, Complexity Economics, Urban Sciences, Data Science.
 
@@ -13,25 +13,38 @@ You can find my different programming projects in [my github website](https://gi
 
 ## Work experience 
 
-- **Incoming Speech and Data Science Intern [Nuance Communications](https://www.nuance.com/index.html):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
+- **Incoming Speech and Data Science Intern [Nuance Communications](https://www.nuance.com/index.html)** 
 
-- **Research Intern at the [Québec Institute for Learning Algorthms (MILA)](https://mila.quebec/en/) (Canada):** Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
+- **Research Intern at the [Québec Institute for Learning Algorthms (MILA)](https://mila.quebec/en/) (Canada):** I currently work as a part-time research intern, writing a UN-Habitat report on AI and cities
 
-- **Data Science Consultant [Jean Golding Institute for data-intensive Research](http://www.bristol.ac.uk/golding/):**
+- **Data Science Consultant [Jean Golding Institute for data-intensive Research](http://www.bristol.ac.uk/golding/):** Helping researchers across the University of Bristol with their data science queries, collaborating on technical projects with the University of Bristol Research Software Engineering team.
 
-- **Machiine Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP with Deep Learning" from LSTMs to BERT. 
+- **Machiine Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP + Deep Learning with Huggingface" from LSTMs to BERT. 
 
-- **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands):** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
+- **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands)** 
 
-- **Student Research Assistant**
+- **Student Research Assistant in computational philogenetics [Leiden University Center for Linguistics](https://www.universiteitleiden.nl/en/research/research-projects/humanities/reconstructing-the-past-through-languages-of-the-present-the-lesser-sunda-islands)**
 
 ## Undergoing projects
 
 ### Understanding, Predicting and Preventing Drug-related Problems in England: A Data-centric Approach.
 
-Author. The illicit drug market in the UK has evolved in the past decade, giving birth to new models of drug supply like deep-web online sales and the county lines model. Combined with a declining workforce from the different polices in the UK, getting a clear snapshot of the supply routes is becoming increasingly difficult. Using open data from the government for England, the aim of this project is to understand how these new supply models evolve over time. By doing this, we aim to understand the geographic structure of the demand of illicit-drugs and project the future routes with high risk of being overtaken by illicit drug suppliers. 
+Previous studies in the field of GIS introduced the usage of Natural Language Processing (NLP) techniques
+both to extract geographically relevant information from text (e.g. geographic information retrieval) and
+to complement imagery obtained from remote sensing through geolocated social media textual content. As much as the usage of textual processing techniques
+has been advocated within the critical human geography tradition as well - mostly in order to confront
+representation issues in a comprehensive and sophisticated way  - large scale NLP models
+are still struggling to emerge in the field. 
+A domain to which NLP can be fruitfully applied to, is online textual data. The study at hand is
+going to provide an empirical illustration of how the usage of unstructured data sources scraped from
+the web can reveal previously hidden insights on persisting urban inequalities in the digital space. More
+specifically, this work uncovers formerly unknown patterns of occupational segregation happening within
+the digital economy realm. In the study, NLP techniques are complemented with multilevel models,
+allowing to provide an overarching description of occupational segregation phenomena accounting for the
+role of place, gender and ethnicity following intersectionality theory. All in all, the projects' aim is to
+showcase how digital econometrics can benefit from textual analysis at scale.
 
-You can find the code for the project in [here](https://github.com/LeonardoCastro/BritishDrugDynamics)! 
+You can find the code for the project in [here](https://github.com/giuliaok/companies_stats/blob/master/)! 
 
 A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
@@ -39,19 +52,20 @@ A virtual poster will be presented at the [University of Bristol Data Week 2022]
 
 ### Industrial classification "on the fly"
 
-Co-founder. A [website](https://mexicovid19.github.io/Mexico/) in Spanish to track and analyse the Coronavirus pandemic in Mexico. A presentation of the project at the [Heilbronn Institute
+Author. Using Natural Language Processing and Commoncrawl data for automation of the UK Business Survey Census. A presentation of the project at the [Heilbronn Institute
 for Mathematical Research data science seminars](https://www.bristol.ac.uk/golding/get-involved/workshops-and-seminars/bristol-data-science-seminars-2021--2022-/) can be found here [here](https://www.youtube.com/watch?v=LckMlbr1QUI).
 
-Past events:
-- [Mathematical Modelling in Biology](https://lims.ac.uk/event/mathematical-modelling-in-biology/) (March 2020 - postponed)
-- [Modelling collective human behaviour](https://lims.ac.uk/event/collective-human-behaviour/) (Jan 2020)
-
 ## Presentations and Invited Talks 
+
+- [The Alan Turing Institute: towards Urban Analytics 2.0](https://www.turing.ac.uk/events/towards-urban-analytics-20) (November 2021). Presentation available [here](https://www.youtube.com/watch?v=jiGVMN2kb14&t=188s)
+- [Global Conference on Economic Geography: Machine Learning meets Economic Geography](http://www.gceg.org/SS02_02-Machine-Learning-Meets-Economic-Geography.php) (June 2022)
+- [GEOINNO 2022](https://geoinno2022.com/) (July 2022)
+
 
 
 ## Contact
 
 - email: gocchini [at] turing [dot] ac [dot] uk
-- twitter: [@GiuliaOcchini](https://twitter.com/giuliaocchini)
+- [Twitter](https://twitter.com/giuliaocchini)
 - [Linkedin](https://www.linkedin.com/in/giulia-occhini-7a21b8122/)
 - [The Alan Turing Institute website](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini)
