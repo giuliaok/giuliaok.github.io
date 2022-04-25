@@ -5,7 +5,7 @@ Hey there! I am a third year PhD student in Natural Language Processing at the U
 
 **My research interests keywords:** Natural Language Processing, Complexity Economics, Urban Sciences, Data Science.
 
-**Main supervisors:** Dr. [Emmanouil Tranos](https://etranos.info/) ([UoB](https://www.bristol.ac.uk/people/person/Emmanouil-Tranos-b26cd054-b65e-438c-9a73-43d0ef833f8d/)/[ATI](https://www.turing.ac.uk/people/researchers/emmanouil-tranos)), Dr. [Levi John Wolf](https://www.ljwolf.org/) ([UoB](https://www.bristol.ac.uk/people/person/Levi-Wolf-6fd84b18-4172-4b27-aac9-55092de68fdc/)/[ATI](https://www.turing.ac.uk/people/researchers/levi-john-wolf)
+**Main supervisors:** Dr. [Emmanouil Tranos](https://etranos.info/) ([UoB](https://www.bristol.ac.uk/people/person/Emmanouil-Tranos-b26cd054-b65e-438c-9a73-43d0ef833f8d/)/[ATI](https://www.turing.ac.uk/people/researchers/emmanouil-tranos)), Dr. [Levi John Wolf](https://www.ljwolf.org/) ([UoB](https://www.bristol.ac.uk/people/person/Levi-Wolf-6fd84b18-4172-4b27-aac9-55092de68fdc/)/[ATI](https://www.turing.ac.uk/people/researchers/levi-john-wolf))
 
 My research interest lies in the multidisciplianry work to understand our economic and urban dynamics as a society. I am also interested in methodological issues and unusual data sources for Computational Social Science (mostly Natural Language Processing and web-archival data). The aim of my PhD is to gain an understanding of the demographic and spatial features of emerging economic activities in the UK.
 
@@ -13,7 +13,15 @@ You can find my different programming projects in [my github website](https://gi
 
 ## Work experience 
 
+- **Incoming Speech and Data Science Intern [Inflammatix](https://inflammatix.com/ml/) (USA):** I currently work as part-time Machine Learning Engineer on Representation Learning. My work also focuses on the use of generative models such as Variational AutoEncoders to capture meaningful structure in the data. 
 
+- **Research Intern at the [Québec Institute for Learning Algorthms (MILA)](https://mila.quebec/en/) (Canada):** Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
+
+- **ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP with Deep Learning" from LSTMs to BERT. 
+
+- **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands) ** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
+
+- **Student Research Assistant**
 
 ## Undergoing projects
 
