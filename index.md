@@ -27,7 +27,7 @@ You can find my different programming projects in [my github website](https://gi
 
 ## Undergoing projects
 
-### Understanding, Predicting and Preventing Drug-related Problems in England: A Data-centric Approach.
+### UNatural Language Processing: the best way to advance the methodological toolkit of urban analytics?
 
 Previous studies in the field of GIS introduced the usage of Natural Language Processing (NLP) techniques
 both to extract geographically relevant information from text (e.g. geographic information retrieval) and
