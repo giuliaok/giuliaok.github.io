@@ -35,7 +35,7 @@ The database is held [here](https://github.com/LeonardoCastro/BritishDrugDynamic
 
 A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
-![poster_02062020](https://github.com/giuliaok/giuliaok/blob/main/JGI Showcase Poster_whatisdatascienceandAI.pdf)
+![poster_02062020](https://github.com/giuliaok/giuliaok.github.io/JGI Showcase Poster_whatisdatascienceandAI.pdf)
 
 ### Mexicovid19
 
