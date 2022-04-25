@@ -44,7 +44,7 @@ allowing to provide an overarching description of occupational segregation pheno
 role of place, gender and ethnicity following intersectionality theory. All in all, the projects' aim is to
 showcase how digital econometrics can benefit from textual analysis at scale.
 
-You can find the code for the project in [here](https://github.com/giuliaok/companies_stats/blob/master/)! 
+You can find the code for the project in [here](https://github.com/giuliaok/companies_stats/)! 
 
 A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
