@@ -48,7 +48,7 @@ You can find the code for the project in [here](https://github.com/giuliaok/comp
 
 A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
-![JGI Poster](https://github.com/giuliaok/giuliaok.github.io/blob/47e11fe08eec2a730c005fefa83dcc03a6dbbbf2/JGI%20Showcase%20Poster_whatisdatascienceandAI.pdf)
+![JGI Poster](https://github.com/giuliaok/giuliaok.github.io/blob/8debfdeb0d246c65fe33c1b287dd7975602ec311/JGI%20Showcase%20Poster_whatisdatascienceandAI-1.png)
 
 ### Industrial classification "on the fly"
 
