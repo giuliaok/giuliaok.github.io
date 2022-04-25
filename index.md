@@ -33,12 +33,9 @@ Author. The illicit drug market in the UK has evolved in the past decade, giving
 
 The database is held [here](https://github.com/LeonardoCastro/BritishDrugDynamics). 
 
-A virtual poster will be presented at the [AI UK Conference 2020 Digital poster exhibition](https://www.turing.ac.uk/events/ai-uk-2020-digital-poster-exhibition) on the 2nd of June, 2020. The poster was going to be presented at the [AI UK Conference](https://www.turing.ac.uk/ai-uk) (24 - 25 March, 2020) before it was postponed.
+A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
-**Co-authors:** Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna)) and Prof. [Weisi Guo](https://www.weisiguo.com/cv) ([Cranfield](https://www.cranfield.ac.uk/people/professor-weisi-guo-24667823)/[ATI](https://www.turing.ac.uk/people/researchers/weisi-guo))
-
-
-![poster_02062020](https://github.com/giuliaok/JGI Showcase Poster_whatisdatascienceandAI.pdf)
+![poster_02062020](https://github.com/giuliaok/giuliaok/blob/main/JGI Showcase Poster_whatisdatascienceandAI.pdf)
 
 ### Mexicovid19
 
