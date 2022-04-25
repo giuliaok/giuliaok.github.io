@@ -35,7 +35,7 @@ The database is held [here](https://github.com/LeonardoCastro/BritishDrugDynamic
 
 A virtual poster will be presented at the [University of Bristol Data Week 2022](http://www.bristol.ac.uk/golding/get-involved/data-week/).
 
-![poster_02062020](https://github.com/giuliaok/giuliaok.github.io/blob/47e11fe08eec2a730c005fefa83dcc03a6dbbbf2/JGI%20Showcase%20Poster_whatisdatascienceandAI.pdf)
+![JGI Poster](https://github.com/giuliaok/giuliaok.github.io/blob/47e11fe08eec2a730c005fefa83dcc03a6dbbbf2/JGI%20Showcase%20Poster_whatisdatascienceandAI.pdf)
 
 ### Mexicovid19
 
@@ -67,3 +67,5 @@ Past events:
 
 - email: gocchini [at] turing [dot] ac [dot] uk
 - twitter: [@GiuliaOcchini](https://twitter.com/giuliaocchini)
+- [Linkedin](https://www.linkedin.com/in/giulia-occhini-7a21b8122/)
+- [The Alan Turing Institute website](https://www.turing.ac.uk/people/doctoral-students/giulia-occhini)
