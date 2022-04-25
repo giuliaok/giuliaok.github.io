@@ -17,9 +17,11 @@ You can find my different programming projects in [my github website](https://gi
 
 - **Research Intern at the [Québec Institute for Learning Algorthms (MILA)](https://mila.quebec/en/) (Canada):** Interned during summer 2021 at Inflammatix (San Francisco, USA) as ML Engineer. My work focused on data harmonisation and the development of a framework for the company.
 
+- **Data Science Consultant [Jean Golding Institute for data-intensive Research](http://www.bristol.ac.uk/golding/)**:
+
 - **ML Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP with Deep Learning" from LSTMs to BERT. 
 
-- **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands) ** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
+- **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands):** OxML Summer School organised by Saïd Business School (Oxford University), AI for Global Goals, Deep Medicine (Oxford University) and CIFAR. 17th - 25th of August
 
 - **Student Research Assistant**
 
