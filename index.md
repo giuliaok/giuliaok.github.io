@@ -37,7 +37,8 @@ A virtual poster will be presented at the [AI UK Conference 2020 Digital poster 
 
 **Co-authors:** Prof. [Ganna Pogrebna](http://www.gannapogrebna.com/) ([UoB](https://www.birmingham.ac.uk/staff/profiles/business/pogrebna-ganna.aspx)/[ATI](https://www.turing.ac.uk/people/researchers/ganna-pogrebna)) and Prof. [Weisi Guo](https://www.weisiguo.com/cv) ([Cranfield](https://www.cranfield.ac.uk/people/professor-weisi-guo-24667823)/[ATI](https://www.turing.ac.uk/people/researchers/weisi-guo))
 
-![poster_02062020](https://github.com/LeonardoCastro/about/blob/master/images/poster_02062020.png?raw=true "Poster at the AI UK")
+
+![poster_02062020](https://github.com/giuliaok/JGI Showcase Poster_whatisdatascienceandAI.pdf)
 
 ### Mexicovid19
 
