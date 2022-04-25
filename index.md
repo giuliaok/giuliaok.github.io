@@ -1,7 +1,7 @@
 
 ## Giulia Occhini
 
-Hey there! I am a third year PhD student in Natural Language Processing at the University of Bristol and The Alan Turing Institute. I am currently in a research intern in AI and cities at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
+Hey there! I am a third year PhD student in Computational Social Sciences and NLP at the University of Bristol and The Alan Turing Institute. I am currently in a research intern in AI and cities at MILA Québec (Jan 2022 - May 2022). Before starting my PhD, I did my MRes in Computational Linguistics at Leiden University (Cum Laude).
 
 **My research interests keywords:** Natural Language Processing, Complexity Economics, Urban Sciences, Data Science.
 
@@ -9,7 +9,7 @@ Hey there! I am a third year PhD student in Natural Language Processing at the U
 
 My research interest lies in the multidisciplianry work to understand our economic and urban dynamics as a society. I am also interested in methodological issues and unusual data sources for Computational Social Science (mostly Natural Language Processing and web-archival data). The aim of my PhD is to gain an understanding of the demographic and spatial features of emerging economic activities in the UK.
 
-You can find my different programming projects in [my github website](https://github.com/giuliaok).
+You can find my different programming projects in [my github page](https://github.com/giuliaok).
 
 ## Work experience 
 
@@ -19,7 +19,7 @@ You can find my different programming projects in [my github website](https://gi
 
 - **Data Science Consultant [Jean Golding Institute for data-intensive Research](http://www.bristol.ac.uk/golding/):** Helping researchers across the University of Bristol with their data science queries, collaborating on technical projects with the University of Bristol Research Software Engineering team.
 
-- **Machiine Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP + Deep Learning with Huggingface" from LSTMs to BERT. 
+- **Machine Learning Tutor at [Cambridge Spark](https://www.cambridgespark.com/?hsLang=en):** Tutored and various Machine Learning courses at Cambridge Spark including: "NLP + Deep Learning with Huggingface" from LSTMs to BERT. 
 
 - **Research Intern at the [Royal Dutch Institute for Indonesian and Caribbean studies](https://www.kitlv.nl/) (The Netherlands)** 
 
