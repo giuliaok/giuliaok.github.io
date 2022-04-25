@@ -37,13 +37,10 @@ A virtual poster will be presented at the [University of Bristol Data Week 2022]
 
 ![JGI Poster](https://github.com/giuliaok/giuliaok.github.io/blob/47e11fe08eec2a730c005fefa83dcc03a6dbbbf2/JGI%20Showcase%20Poster_whatisdatascienceandAI.pdf)
 
-### Mexicovid19
+### Industrial classification "on the fly"
 
-Co-founder. A [website](https://mexicovid19.github.io/Mexico/) in Spanish to track and analyse the Coronavirus pandemic in Mexico. The datasets used are updated daily and published [here](https://github.com/mexicovid19/Mexico-datos).
-
-### The Complexity Lates
-
-Co-organiser. The Complexity Lates are student organised events for PhD students and early career scientists to present their work in Complexity Sciences in a relaxed ambient. Past events have been hosted at [The London Institute for Mathematical Sciences](https://lims.ac.uk/).
+Co-founder. A [website](https://mexicovid19.github.io/Mexico/) in Spanish to track and analyse the Coronavirus pandemic in Mexico. A presentation of the project at the [Heilbronn Institute
+for Mathematical Research data science seminars](https://www.bristol.ac.uk/golding/get-involved/workshops-and-seminars/bristol-data-science-seminars-2021--2022-/) can be found here [here](https://www.youtube.com/watch?v=LckMlbr1QUI).
 
 Past events:
 - [Mathematical Modelling in Biology](https://lims.ac.uk/event/mathematical-modelling-in-biology/) (March 2020 - postponed)
